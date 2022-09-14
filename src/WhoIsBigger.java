@@ -38,9 +38,4 @@ public class WhoIsBigger {
             return "Они равны";
         }
     }
-
-    @Override
-    public String toString() {
-        return super.toString();
-    }
 }

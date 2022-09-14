@@ -1,9 +1,3 @@
-/*ФАКУЛЬТЕТЫ*/
-
-
-
-/*ЧЕК-ПОИНТ*/
-
 public class Main {
     public static void main (String[] args) {
         Griffindor RU = new Griffindor(43, "Ron", 54, 67, 43, 23);
